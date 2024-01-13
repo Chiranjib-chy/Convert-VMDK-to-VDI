@@ -1,6 +1,6 @@
 # Convert-VMDK-to-VDI
 
-The VBoxManage command is the Swis Army Knife of tools to manage all things VirtualBox. The VBoxManage command will need to be in your path to be able to use it..
+The <b>VBoxManage</b> command is the Swis Army Knife of tools to manage all things VirtualBox. The VBoxManage command will need to be in your path to be able to use it..
 
 Go to the destination folder where the VMDK file is. then open cmd with administrative permission and run the below command --
 
